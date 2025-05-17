@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am an **Android Developer** with over 1.5 years of experience building **engaging** and **user-friendly mobile applications**. My strong foundation in **Kotlin**, **Java**, and **XML** allows me to create **intuitive interfaces** with a focus on **functionality**, **scalability**, and **thoughtful design**.
+I am an **Android Developer** with over 2 years of experience building **engaging** and **user-friendly mobile applications**. My strong foundation in **Kotlin**, **Java**, and **XML** allows me to create **intuitive interfaces** with a focus on **functionality**, **scalability**, and **thoughtful design**.
 
 ### 🛠️ Expertise:
 - **Mobile Development:** Android (Kotlin, Java, XML)
